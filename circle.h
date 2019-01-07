@@ -12,6 +12,7 @@ private:
     int x, y;
     int r;
     void Symmetry(int tx, int ty);
+    int test;
 
 public:
     Circle(int x, int y, int r);
